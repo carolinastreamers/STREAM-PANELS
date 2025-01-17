@@ -11,6 +11,19 @@ web interface on the page
 http://localhost
 
 
+Now you are ready to start Flussonic
+Activating Flussonic Media Server¶
+
+To activate Flussonic Media Server:
+
+Start the server by running the following command in the terminal:
+
+service flussonic start
+#Open in browser
+
+web interface on the page
+
+  http://localhost
 "Active Flussonic License Key is Below (Life Time)":
 License Key 1
 
@@ -24,11 +37,6 @@ l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 License Key 4
 
 l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
-
-
-
-
-
 Updating Flussonic
 To install updates, simply update the packages and install Flussonic:
 
