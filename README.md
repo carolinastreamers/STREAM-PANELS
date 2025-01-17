@@ -1,6 +1,7 @@
 To install Flussonic, run this command in the Linux console (command line):
 curl -sSf https://raw.githubusercontent.com/tobi2021lol/Flussonic/master/install.sh | sh
 
+
 Then start Flussonic Media Server:
 Now you are ready to start Flussonic
 /etc/init.d/flussonic start
